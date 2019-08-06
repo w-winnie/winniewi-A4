@@ -1,0 +1,9 @@
+{
+    "name":"Panther",
+    "scientific_name":"Panthera pardus",
+    "diet":"Carnivore",
+    "other_names": "Leopard, Jaguar",
+    "habitat": "Forest, swampland and grasslands",
+    "fictional_references": "Pink panther(1963), Bagheera(Mowgli,1894)",
+    "image": "assets/images/panther.jpg"
+}

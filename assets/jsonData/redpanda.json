@@ -1,0 +1,9 @@
+{
+    "name":"Red panda",
+    "scientific_name":"Ailurus fulgens",
+    "diet":"Herbivore",
+    "other_names": "Fire Fox",
+    "habitat": "Rainy high altitude forests",
+    "fictional_references": "Shifu(Kung Fu Panda,2008)",
+    "image": "assets/images/redpanda.jpg"
+}
